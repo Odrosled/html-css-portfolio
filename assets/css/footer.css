@@ -1,0 +1,22 @@
+footer {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #2d2e32;
+}
+
+.footer-links {
+  padding-bottom: 40px;
+}
+
+.footer-links a {
+  color: white;
+}
+
+.signature {
+  color: white;
+  letter-spacing: 1px;
+}
